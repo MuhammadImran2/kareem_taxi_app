@@ -1,0 +1,158 @@
+.header-left .page-title h5{
+	padding-top: 7px;
+	color: #fff
+}
+.profile-title{
+	float: left;
+    padding-top: 7px;
+    padding-right: 10px;
+    color: #fff
+}
+.right-panel header.header{
+	min-height: 310px;
+	background: #11D06B
+}
+.user-table-content{
+	display: flex;
+    justify-content: center;
+    margin-top: -80px;
+}
+.user-table-content .card{
+    border-radius: 15px;
+}
+.header-small-cards .card{
+	background: #fff;
+	border-radius: 10px;
+    box-shadow: 0px 1px 15px #33396f;
+    color: #fff
+}
+.header-small-cards .card p{
+	color: #000;
+	font-size: 13px
+}
+.sidebar-title{
+	color: #11D06B;
+    padding: 20px 0 40px;
+}
+.circle-icon-red, .circle-icon-orange, .circle-icon-yellow, .circle-icon-lightblue, .circle-icon-purple{
+	border-radius: 30px;
+}
+.circle-icon-red, .cat-circle-icon-red{
+	background: #11D06B
+}
+.circle-icon-orange{
+	background: #11D06B
+}
+.circle-icon-yellow{
+	background: #11D06B
+}
+.circle-icon-lightblue{
+	background: #11D06B
+}
+.cat-circle-icon-black{
+	background: #000
+}
+.circle-icon-purple, .cat-circle-icon-purple{
+	background: #11D06B
+}
+.circle-text-red{
+	color: #f1395d !important
+}
+.circle-text-orange{
+	color: #f9543e !important
+}
+.circle-text-yellow{
+	color: #ffcc2a !important
+}
+.circle-text-lightblue{
+	color: #2cc9ec !important 
+}
+.text-header{
+	color: #6b6a6a;
+    font-size: 14px;
+}
+.round-image{
+	border-radius: 50%;
+    width: 8%;
+    margin-right: 15px;
+}
+.table td, .table th{
+	vertical-align: middle;
+}
+.category-header{
+	min-height: inherit !important;
+}
+.category-table-content{
+	margin-top: 50px
+}
+.circle-icon-purple:hover{
+	color: #000 !important
+}
+.category-table{
+    display: flex;
+    justify-content: center;
+}
+.cate-btn{
+	background: #11D06B;
+}
+.cat-circle-icon-purple, .cat-circle-icon-red, .cat-circle-icon-black{
+	border-radius: 8px;
+}
+.cat-card-body{
+	padding: 50px 0 40px;
+}
+.cat-card-body .fileupload{
+	/*display: flex;
+    justify-content: center;*/
+    border: 2px dashed #ccc;
+    padding: 30px 0 45px;
+    margin-top: 10px;
+}
+.cat-select-img-btn{
+	width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.thumbnail {
+    border: 0 none;
+    box-shadow: none;
+}
+#cat_insert{
+	width: 100%;
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+    border-radius: 5px;
+}
+.cat-round-image{
+	width: 30%
+}
+.sel-img-text{
+	background: #11D06B;
+    color: #fff;
+    border-radius: 5px;
+}
+.category-table-content table{
+	text-align: center;
+}
+.tox-statusbar__branding{
+	display: none !important;
+}
+.post_desc p{
+	color: #000
+}
+.login-form .btn {
+  width: 100%;
+   background: #11D06B;
+  text-transform: uppercase;
+  font-size: 14px;
+  padding: 15px;
+  border: 0; }
+
+#myTabContent{
+	margin-top: 20px
+}
+.tox-menu.tox-collection.tox-collection--list.tox-selected-menu{
+	left: -744.953px !important;
+    top: 302px !important;
+}
